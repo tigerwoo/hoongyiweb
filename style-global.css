@@ -498,6 +498,10 @@
 	.ptb90-t{padding-top: 90px !important; padding-bottom: 90px !important;}
 	.ptb100-t{padding-top: 100px !important; padding-bottom: 100px !important;}
 	.ptb120-t{padding-top: 120px !important; padding-bottom: 120px !important;}
+	li a {
+    white-space: normal;
+    word-break: break-word;
+  }
 }
 
 
@@ -671,6 +675,10 @@
 	.ptb90-ml{padding-mlop: 90px !important; padding-bottom: 90px !important;}
 	.ptb100-ml{padding-mlop: 100px !important; padding-bottom: 100px !important;}
 	.ptb120-ml{padding-mlop: 120px !important; padding-bottom: 120px !important;}
+	li a {
+    white-space: normal;
+    word-break: break-word;
+  }
 }
 
 
@@ -837,4 +845,8 @@
 	.ptb90-m{padding-mop: 90px !important; padding-bottom: 90px !important;}
 	.ptb100-m{padding-mop: 100px !important; padding-bottom: 100px !important;}
 	.ptb120-m{padding-mop: 120px !important; padding-bottom: 120px !important;}
+	li a {
+    white-space: normal;
+    word-break: break-word;
+  }
 }
